@@ -1,12 +1,6 @@
-body {
-    width: 99%;
-    height: 50px;
-}
-
 table {
     border-collapse: collapse;
     border: 0px solid #000;
-    margin: 0px 25% 0px 41%;
 }
 
 td {
