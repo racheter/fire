@@ -2,7 +2,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: sienna;
     background-image: url(img.jpg);
     background-size: 200px;
     background-repeat: repeat;
